@@ -7,7 +7,7 @@ Annotates prediction results using canvas.
 
 Run the following command in your Node-RED user directory - typically `~/.node-red`
 
-        npm install tequ-node-red-annotate-tf
+        npm install Lapland-UAS-Tequ/tequ-node-red-annotate-tf
 
 ## Information
 
