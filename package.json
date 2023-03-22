@@ -1,0 +1,19 @@
+{
+  "name": "tequ-node-red-annotate-tf",
+  "version": "0.0.1",
+  "description": "Node-RED node for tequ-node-red-annotate-tf",
+  "keywords": [
+    "node-red-nodegen", 
+    "tequ-ai"
+  ],
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "node-red": {
+    "version": ">=1.3.7",
+    "nodes": {
+      "tequ-node-red-annotate-tf": "subflow.js"
+    }
+  },
+  "license": "MIT"
+}
